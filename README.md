@@ -10,7 +10,7 @@ https://github.com/Leenhazaimeh
 |assignment |link               |
 |-----------|-------------------|
 |read01     |[calss1](read01.md)|
-|read03     |[class3](read03.md)|
+|reada3     |[class3](reada3.md)|
 |read04     |[class4](read04.md)|
 |read05     |[class5](read05.md)|
 |read06     |[class6](read06.md)|
@@ -22,7 +22,7 @@ https://github.com/Leenhazaimeh
 |-----------|-------------------|
 |reada1     |[calss1](reada1.md)|
 |read02     |[class2](read02.md)|
-|reada3     |[class3](reada3.md)|
+|read03     |[class3](read03.md)|
 |reada4     |[class4](reada4.md)|
 |reada5     |[class5](reada5.md)|
 |reada6     |[class6](reada6.md)|
