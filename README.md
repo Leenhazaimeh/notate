@@ -25,7 +25,7 @@ https://github.com/Leenhazaimeh
 |read03     |[class3](read03.md)|
 |read04     |[class4](read04.md)|
 |read05     |[class5](read05.md)|
-|reada6     |[class6](reada6.md)|
+|read06     |[class6](read06.md)|
 |reada7     |[calss1](reada7.md)|
 |reada8     |[class2](reada8.md)|
 |reada9     |[class3](reada9.md)|
