@@ -51,13 +51,13 @@ https://github.com/Leenhazaimeh
 |readc7     |[calss7](readc7.md)|
 |readc8     |[class8](readc8.md)|
 |readc9     |[class3](readc9.md)|
-|readc10     |[class4](readc10.md)|
-|readc11     |[class5](readc11.md)|
-|readc12     |[class6](readc12.md)|
-|readc13     |[calss1](readc13.md)|
-|readc14a    |[class2](readc14a.md)|
-|readc14b    |[class2](readc14b.md)|
-|readc15     |[class3](readc15.md)|
+|readc10    |[class4](readc10.md)|
+|readc11    |[class5](readc11.md)|
+|readc12    |[class6](readc12.md)|
+|readc13    |[calss1](readc13.md)|
+|readc14a   |[class2](readc14a.md)|
+|readc14b   |[class2](readc14b.md)|
+|readc15    |[class3](readc15.md)|
 
 
 ## 401 notes :
