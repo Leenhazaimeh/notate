@@ -55,7 +55,7 @@ https://github.com/Leenhazaimeh
 |readc11    |[class5](Read11.md)|
 |readc12    |[class6](Read12.md)|
 |readc13    |[calss1](Read13.md)|
-|readc14a   |[class2](readc14a.md)|
+|readc14a   |[class2](Read14.md)|
 |readc14b   |[class2](readc14b.md)|
 |readc15    |[class3](readc15.md)|
 
