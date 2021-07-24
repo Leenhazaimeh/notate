@@ -65,7 +65,7 @@ https://github.com/Leenhazaimeh
 
 |assignment |link               |
 |-----------|-------------------|
-|reada1     |[calss1](reada1.md)|
+|readaa1     |[calss1](readaa1.md)|
 |read02     |[class2](read02.md)|
 |read03     |[class3](read03.md)|
 |read04     |[class4](read04.md)|
