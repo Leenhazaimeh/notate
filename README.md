@@ -70,7 +70,7 @@ https://github.com/Leenhazaimeh
 |read0a3     |[class3](read0a3.md)|
 |read0a4     |[class4](read0a4.md)|
 |read0a5     |[class5](read0a5.md)|
-|read06     |[class6](read06.md)|
+|read0a6     |[class6](read0a6.md)|
 |read07     |[calss7](read07.md)|
 |read08     |[class8](read08.md)|
 |read09     |[class3](read09.md)|
