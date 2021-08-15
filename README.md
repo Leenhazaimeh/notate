@@ -78,6 +78,7 @@ https://github.com/Leenhazaimeh
 |read11a     |[class5](read11a.md)|
 |read12a     |[class6](read12a.md)|
 |read13a     |[calss1](read13a.md)|
-|read14m    |[class2](read14m.md)|
-|read15a   |[class2](read15a.md)|
+|read14m     |[class2](read14m.md)|
+|read15a     |[class2](read15a.md)|
 |read16a     |[class3](read16a.md)|
+|read17a     |[class3](read17a.md)|
