@@ -82,3 +82,4 @@ https://github.com/Leenhazaimeh
 |read15a     |[class2](read15a.md)|
 |read16a     |[class3](read16a.md)|
 |read17a     |[class3](read17a.md)|
+|read18a     |[class3](read18a.md)|
