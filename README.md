@@ -86,3 +86,4 @@ https://github.com/Leenhazaimeh
 |read19a     |[class3](read19a.md)|
 |read20a     |[class3](read20a.md)|
 |read21a     |[class3](read21a.md)|
+|read22a     |[class3](read22a.md)|
