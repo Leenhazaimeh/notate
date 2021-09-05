@@ -89,3 +89,4 @@ https://github.com/Leenhazaimeh
 |read22a     |[class3](read22a.md)|
 |read23a     |[class3](read23a.md)|
 |read23a     |[class3](read24a.md)|
+|read25a     |[class3](read25a.md)|
